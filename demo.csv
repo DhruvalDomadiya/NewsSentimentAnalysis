@@ -1,0 +1,639 @@
+,data 0,data 1,data 2,data 3,data 4,data 5,data 6
+0,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+1,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+2,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+3,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+4,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+5,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+6,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+7,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+8,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+9,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+10,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+11,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+12,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+13,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+14,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+15,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+16,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+17,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+18,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+19,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+20,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+21,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+22,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+23,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+24,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+25,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+26,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+27,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+28,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+29,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+30,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+31,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+32,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+33,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+34,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+35,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+36,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+37,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+38,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+39,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+40,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+41,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+42,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+43,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+44,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+45,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+46,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+47,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+48,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+49,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+50,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+51,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+52,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+53,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+54,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+55,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+56,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+57,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+58,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+59,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+60,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+61,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+62,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+63,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+64,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+65,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+66,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+67,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+68,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+69,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+70,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+71,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+72,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+73,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+74,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+75,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+76,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+77,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+78,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+79,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+80,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+81,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+82,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+83,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+84,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+85,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+86,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+87,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+88,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+89,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+90,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+91,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+92,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+93,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+94,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+95,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+96,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+97,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+98,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+99,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+100,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+101,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+102,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+103,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+104,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+105,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+106,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+107,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+108,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+109,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+110,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+111,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+112,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+113,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+114,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+115,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+116,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+117,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+118,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+119,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+120,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+121,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+122,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+123,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+124,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+125,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+126,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+127,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+128,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+129,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+130,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+131,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+132,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+133,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+134,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+135,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+136,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+137,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+138,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+139,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+140,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+141,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+142,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+143,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+144,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+145,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+146,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+147,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+148,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+149,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+150,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+151,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+152,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+153,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+154,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+155,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+156,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+157,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+158,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+159,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+160,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+161,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+162,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+163,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+164,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+165,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+166,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+167,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+168,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+169,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+170,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+171,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+172,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+173,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+174,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+175,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+176,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+177,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+178,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+179,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+180,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+181,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+182,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+183,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+184,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+185,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+186,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+187,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+188,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+189,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+190,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+191,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+192,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+193,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+194,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+195,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+196,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+197,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+198,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+199,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+200,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+201,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+202,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+203,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+204,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+205,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+206,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+207,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+208,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+209,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+210,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+211,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+212,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+213,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+214,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+215,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+216,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+217,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+218,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+219,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+220,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+221,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+222,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+223,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+224,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+225,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+226,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+227,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+228,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+229,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+230,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+231,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+232,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+233,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+234,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+235,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+236,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+237,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+238,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+239,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+240,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+241,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+242,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+243,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+244,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+245,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+246,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+247,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+248,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+249,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+250,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+251,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+252,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+253,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+254,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+255,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+256,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+257,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+258,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+259,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+260,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+261,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+262,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+263,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+264,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+265,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+266,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+267,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+268,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+269,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+270,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+271,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+272,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+273,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+274,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+275,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+276,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+277,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+278,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+279,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+280,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+281,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+282,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+283,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+284,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+285,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+286,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+287,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+288,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+289,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+290,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+291,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+292,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+293,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+294,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+295,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+296,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+297,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+298,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+299,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+300,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+301,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+302,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+303,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+304,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+305,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+306,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+307,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+308,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+309,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+310,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+311,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+312,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+313,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+314,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+315,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+316,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+317,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+318,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+319,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+320,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+321,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+322,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+323,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+324,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+325,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+326,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+327,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+328,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+329,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+330,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+331,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+332,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+333,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+334,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+335,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+336,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+337,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+338,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+339,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+340,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+341,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+342,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+343,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+344,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+345,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+346,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+347,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+348,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+349,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+350,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+351,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+352,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+353,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+354,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+355,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+356,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+357,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+358,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+359,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+360,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+361,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+362,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+363,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+364,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+365,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+366,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+367,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+368,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+369,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+370,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+371,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+372,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+373,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+374,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+375,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+376,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+377,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+378,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+379,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+380,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+381,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+382,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+383,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+384,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+385,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+386,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+387,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+388,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+389,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+390,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+391,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+392,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+393,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+394,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+395,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+396,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+397,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+398,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+399,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+400,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+401,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+402,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+403,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+404,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+405,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+406,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+407,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+408,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+409,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+410,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+411,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+412,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+413,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+414,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+415,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+416,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+417,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+418,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+419,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+420,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+421,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+422,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+423,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+424,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+425,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+426,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+427,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+428,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+429,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+430,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+431,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+432,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+433,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+434,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+435,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+436,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+437,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+438,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+439,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+440,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+441,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+442,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+443,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+444,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+445,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+446,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+447,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+448,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+449,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+450,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+451,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+452,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+453,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+454,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+455,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+456,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+457,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+458,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+459,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+460,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+461,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+462,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+463,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+464,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+465,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+466,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+467,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+468,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+469,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+470,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+471,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+472,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+473,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+474,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+475,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+476,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+477,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+478,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+479,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+480,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+481,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+482,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+483,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+484,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+485,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+486,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+487,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+488,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+489,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+490,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+491,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+492,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+493,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+494,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+495,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+496,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+497,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+498,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+499,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+500,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+501,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+502,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+503,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+504,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+505,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+506,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+507,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+508,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+509,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+510,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+511,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+512,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+513,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+514,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+515,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+516,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+517,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+518,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+519,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+520,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+521,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+522,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+523,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+524,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+525,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+526,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+527,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+528,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+529,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+530,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+531,Global News,"Winnipeg Jets GM Cheveldayoff bears responsibility Blackhawks scandal , NHL says",0.244,0.756,0.0,-0.4404,Negative
+532,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+533,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+534,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+535,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+536,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+537,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+538,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+539,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+540,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+541,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+542,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+543,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+544,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+545,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+546,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+547,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+548,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+549,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+550,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+551,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+552,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+553,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+554,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+555,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+556,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+557,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+558,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+559,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+560,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+561,Fox News,Marcellus Wiley explains Baker Mayfield & # 8217 ; lack production hurting Browns SPEAK,0.357,0.643,0.0,-0.6124,Negative
+562,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+563,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+564,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+565,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+566,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+567,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+568,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+569,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+570,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+571,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+572,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+573,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+574,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+575,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+576,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+577,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+578,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+579,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
+580,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+581,Global News,"Anunoby career-best 36 , Raptors beat Knicks",0.0,1.0,0.0,0.0,Neutral
+582,Global News,"Bettman says Kyle Beach claims left ‘ distressed , ’ stands $ 2M Blackhawks fine",0.206,0.662,0.132,-0.25,Neutral
+583,Global News,Knicks play Raptors 3-game win streak,0.0,0.392,0.608,0.7351,Positive
+584,Global News,Barnes leads Raptors past Pacers,0.0,1.0,0.0,0.0,Neutral
+585,Global News,Meet B.C . artist behind UNBC ’ Indigenous athletics logo — first Canada,0.0,1.0,0.0,0.0,Neutral
+586,Global News,Kyle Beach offered NHL ’ help meeting league ’ commissioner,0.0,0.722,0.278,0.4019,Positive
+587,Global News,Raptors hang 110-109 win Magic,0.0,0.513,0.487,0.5859,Positive
+588,Global News,MLS launches independent probe Whitecaps ’ sexual misconduct allegations,0.0,1.0,0.0,0.0,Neutral
+589,Global News,Blackhawks owner asks Hall Fame cover Brad Aldrich ’ name Stanley Cup,0.0,0.775,0.225,0.4404,Positive
+590,Canadian Broadcasting Corporation,"Bettman apologizes Kyle Beach , defends NHL wake sexual assault allegations",0.266,0.559,0.175,-0.3182,Negative
+591,Canadian Broadcasting Corporation,Olympic stock watch : 's 's road Beijing,0.0,1.0,0.0,0.0,Neutral
+592,Canadian Broadcasting Corporation,NHL 's apology n't make lack responsibility Chicago scandal,0.24,0.497,0.262,-0.1872,Neutral
+593,Canadian Broadcasting Corporation,"Karina LeBlanc named GM NWSL Thorns , reuniting ex-Canadian keeper Sinclair",0.0,1.0,0.0,0.0,Neutral
+594,Canadian Broadcasting Corporation,Canada upsets defending champion France Billie Jean King Cup,0.187,0.522,0.291,0.34,Positive
+595,Canadian Broadcasting Corporation,"Canucks defenceman Travis Hamonic double vaccinated 'soon , ' says head coach",0.0,0.865,0.135,0.1027,Neutral
+596,Canadian Broadcasting Corporation,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+597,Canadian Broadcasting Corporation,Anunoby 's career night lifts Raptors past Knicks pick 4th-straight win,0.0,0.725,0.275,0.5859,Positive
+598,Canadian Broadcasting Corporation,Kane 's hat trick lifts Chicago convincing 1st win season Senators,0.076,0.51,0.414,0.743,Positive
+599,Canadian Broadcasting Corporation,Canadian women hang defeat U.S. 1st rugby test match almost 2 years,0.231,0.769,0.0,-0.4588,Negative
+600,Canadian Broadcasting Corporation,Bikini rule changed beach handball Norwegian player protest,0.222,0.778,0.0,-0.25,Neutral
+601,Canadian Broadcasting Corporation,Horgan defeats Howard earn final spot Canadian Olympic curling trials,0.204,0.796,0.0,-0.3182,Negative
+602,Canadian Broadcasting Corporation,Canadiens ' Cedric Paquette suspended 2 games boarding Trevor Zegras,0.307,0.693,0.0,-0.4767,Negative
+603,Canadian Broadcasting Corporation,Elks sign recently acquired quarterback Nick Arbuckle 1-year contract,0.0,1.0,0.0,0.0,Neutral
+604,Canadian Broadcasting Corporation,Skate Canada event provides Canadian high performance director 'good takeaways ',0.0,0.756,0.244,0.4404,Positive
+605,Canadian Broadcasting Corporation,"Patrick Kane cleared COVID-19 protocol , returns Chicago lineup",0.0,0.833,0.167,0.1027,Neutral
+606,Canadian Broadcasting Corporation,Canadian men 's short track relay team wins gold Japan,0.0,0.709,0.291,0.5719,Positive
+607,Canadian Broadcasting Corporation,Kyle Beach reportedly meet Chicago NHL team officials Tuesday,0.0,1.0,0.0,0.0,Neutral
+608,Canadian Broadcasting Corporation,Canadian Fleming helps lead Chelsea women 's FA Cup final,0.0,0.776,0.224,0.3818,Positive
+609,Canadian Broadcasting Corporation,"93-year-old London , Ont. , runner breaks Canadian record , shows signs slowing",0.0,1.0,0.0,0.0,Neutral
+610,Fox News,& # 8216 ; Maybe send message coach & # 8217 ; — Mike Pereira Bowling Green & # 8217 ; coach ejection,0.0,1.0,0.0,0.0,Neutral
+611,Fox News,Becky Lynch Bianca Belair clash Raw Title Match,0.0,1.0,0.0,0.0,Neutral
+612,Fox News,Kevin Owens challenges Big E Raw Championship Match,0.0,0.543,0.457,0.4939,Positive
+613,Fox News,Astros force Game 7 ? FOX BET LIVE,0.0,1.0,0.0,0.0,Neutral
+614,Fox News,Mike Pereira Dean Blandino agree helmet-to-helmet call Jets-Bengals bad | Last Call,0.233,0.6,0.167,-0.25,Neutral
+615,Fox News,Mike Pereira : horse collar flag Jameis Winston & # 8217 ; injury right call Last Call,0.189,0.811,0.0,-0.4215,Negative
+616,Fox News,Dr. Matt Provencher & # 8217 ; prognosis Derrick Henry & # 8217 ; potential season-ending foot injury NFL FOX,0.177,0.823,0.0,-0.4215,Negative
+617,Fox News,& # 8216 ; Jameis Winston & # 8217 ; ACL definitely need reconstructed & # 8217 ; — Dr. Matt Provencher NFL FOX,0.0,0.828,0.172,0.4019,Positive
+618,Fox News,Von Wagner & Kyle O'Reilly settle debate Legado Del Fantasma ring,0.0,1.0,0.0,0.0,Neutral
+619,Fox News,Clay Travis likes Chiefs cover big number vs. Giants FOX BET LIVE,0.0,0.709,0.291,0.4767,Positive
+620,Canadian Television Network,"Bettman apologizes Beach , defends NHL wake sexual assault allegations",0.286,0.526,0.188,-0.3182,Negative
+621,Canadian Television Network,NHLPA votes investigation union handled Kyle Beach 's allegations,0.0,1.0,0.0,0.0,Neutral
+622,Canadian Television Network,Canada stuns holders France Billie Jean King Cup finals kick,0.0,0.891,0.109,0.0258,Neutral
+623,Canadian Television Network,FIFA wraps second set visits potential World Cup hosts,0.0,1.0,0.0,0.0,Neutral
+624,Canadian Television Network,Braves look finish Astros Game 5 World Series,0.0,0.674,0.326,0.4404,Positive
+625,Canadian Television Network,Trump participates 'Tomahawk chop ' World Series game,0.0,1.0,0.0,0.0,Neutral
+626,Canadian Television Network,Ravens LB Malik Harrison struck stray bullet Cleveland,0.222,0.778,0.0,-0.25,Neutral
+627,Canadian Television Network,"NHL concludes Bill Peters investigation , Akim Aliu 's lawyer casts doubt",0.2,0.8,0.0,-0.3612,Negative
+628,Canadian Television Network,International Handball Federation allow women wear shorts instead 'sexist ' bikini bottoms,0.0,0.84,0.16,0.2263,Neutral
+629,Canadian Television Network,Barcelona star Sergio Aguero admitted hospital 'cardiac exam ' chest pain match,0.241,0.657,0.102,-0.4404,Negative
+630,Canadian Television Network,"Jerry Remy , Boston Red Sox player broadcaster , dies",0.0,1.0,0.0,0.0,Neutral
+631,Canadian Television Network,Crystal Palace soccer player Zaha critical Instagram racism,0.516,0.484,0.0,-0.7506,Negative
+632,Canadian Television Network,"NHL commissioner meets Kyle Beach , offers league 's help",0.0,0.748,0.252,0.4019,Positive
+633,Canadian Television Network,NHL says discipline Jets GM Kevin Cheveldayoff Blackhawks sexual assault investigation,0.275,0.725,0.0,-0.5859,Negative
+634,Canadian Television Network,'Real consequences : ' Former NHL player Georges Laraque needs happen make change league,0.0,1.0,0.0,0.0,Neutral
+635,Canadian Television Network,Blackhawks ' sponsorships could take hit without proper response sex assault allegation,0.275,0.725,0.0,-0.5859,Negative
+636,Canadian Television Network,Blackhawks ask Hall Fame cover assistant 's name Cup,0.0,0.734,0.266,0.4404,Positive
+637,Canadian Television Network,Minnesota man charged hacking MLB trying extort league,0.205,0.795,0.0,-0.2023,Neutral
